@@ -28,6 +28,12 @@ to-do-list chat bot (telegram)
 
 ![투두봇통신](https://user-images.githubusercontent.com/100172683/174668333-e6bae7d2-3fba-4723-b8d8-483aab847db1.png)
 
+![투두봇 ec2222](https://user-images.githubusercontent.com/100172683/174676855-7a99591a-e9a3-436f-bb09-cebf10ea86cd.png)
+
+![투두봇 rds](https://user-images.githubusercontent.com/100172683/174676687-bd8b297d-537c-47c0-a241-30cca0f48d13.png)
+
+
+
 
  ##  1차(test)
 
@@ -45,7 +51,7 @@ to-do-list chat bot (telegram)
 
  ##  2차
 
-1. SQLITE -> MYSQL로 변경
+1. SQLITE -> MYSQL로 변경 (만 하면 됨)
 2. RDS-데이터베이스 생성 후, 엔진 버전을 MYSQL로 지정
 3. RDS - LAMBDA와 연결
 4. (9시마다 알림 기능) LAMBDA 함수 따로 실행
